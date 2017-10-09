@@ -1,0 +1,83 @@
+
+<!-- saved from url=(0047)file:///C:/Users/Dell/Desktop/cricket/goku.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>
+cricket
+</title>
+<style>
+<body>
+p.inset {border-style: inset;}
+{
+background-color:black;
+
+}
+h1
+{
+    background-color:orange;
+
+}
+h4
+{
+	background-color:blue;
+ 
+}
+h2
+{
+	background-color:green;
+}
+h3
+{
+	background-color:black;
+	 font-size: 300%;
+	font-family: "magneto"}
+	
+
+</style>
+</head>
+<body>
+<p class="inset">
+</p><h3><center><font color="orange">gokul^  </font><font color="white">^^a</font><font color="blue">-</font><font color="white">z^^</font><font color="green">  ^mounish  ^venkat</font>
+
+
+<pre><img src="./cricket_files/im3.jpg" style="width:200px;height:200px;"> <img src="./cricket_files/im1.jpg" style="width:200px;height:200px;"> <img src="./cricket_files/dhoni.jpg" style="width:200px;height:200px;"> <img src="./cricket_files/dhoni2.jpg" style="width:200px;height:200px;"> <img src="./cricket_files/im2.jpg" style="width:200px;height:200px;"> <img src="./cricket_files/im4.jpg" style="width:200px;height:200px;">
+</pre></center></h3>
+<hr>
+<h1>
+<font color="white">live scores</font>
+<script>
+  app="www.cricwaves.com"; mo="f1_zd"; tor =""; mtype ="";  wi="{{wi}}"; Width="350px"; Height="350px";  co ="ban"; 
+</script><script type="text/javascript" src="./cricket_files/scoreWidgets.js.download"></script><iframe src="./cricket_files/{{wi}}.html" width="350px" height="350px" scrolling="no" frameborder="0" marginheight="0" style="margin:0; padding:0;" marginwidth="0"></iframe>
+<font color="white">search player</font>
+<script>
+  app="www.cricwaves.com"; mo="1"; tor =""; mtype ="";  wi="{{wi}}"; Width="350px"; Height="350px";  co ="3"; 
+</script><script type="text/javascript" src="./cricket_files/RandomPlayer.js.download"></script><iframe src="./cricket_files/Players.html" width="350px" height="350px" scrolling="no" frameborder="0" marginheight="0" style="margin:0; padding:0;" marginwidth="0"></iframe>
+</h1><hr>
+<h4>
+
+<font color="white" size="6">points table</font>
+<script>
+  app="www.cricwaves.com"; mo="1"; tor =""; mtype ="";  wi="{{wi}}"; Width="302px"; Height="302px";  co ="new"; 
+</script><script type="text/javascript" src="./cricket_files/Pointsscript.js.download"></script><iframe id="PIframe" src="./cricket_files/PointsTable.html" width="302px" height="302px" scrolling="no" frameborder="0" marginheight="0" style="margin:0; padding:0;" marginwidth="0"></iframe>
+
+<font color="white" size="6">series stats</font>
+<script>
+  app="www.cricwaves.com"; mo="All"; tor =""; mtype ="";  wi="{{wi}}"; Width="350px"; Height="350px";  co ="r4"; 
+</script><script type="text/javascript" src="./cricket_files/statstourScript.js.download"></script><iframe src="./cricket_files/saved_resource.html" width="350px" height="350px" scrolling="no" frameborder="0" marginheight="0" style="margin:0; padding:0;" marginwidth="0"></iframe>
+</h4><hr>
+<h2>
+
+<font color="white" size="6">icc stats</font>
+<script>
+  app="www.cricwaves.com"; mo="W"; tor =""; mtype ="";  wi="{{wi}}"; Width="350px"; Height="350px";  co ="mn"; 
+</script><script type="text/javascript" src="./cricket_files/statstourScript.js.download"></script><iframe src="./cricket_files/saved_resource(15).html" width="350px" height="350px" scrolling="no" frameborder="0" marginheight="0" style="margin:0; padding:0;" marginwidth="0"></iframe>
+
+<font color="white" size="6">icc rankings</font>
+<script>
+  app="www.cricwaves.com"; mo="W"; tor =""; mtype ="";  wi="{{wi}}"; Width="350px"; Height="350px";  co ="New"; 
+</script><script type="text/javascript" src="./cricket_files/iccScript.js.download"></script><iframe id="IIframe" src="./cricket_files/Ratings.html" width="300" height="385" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+</h2>
+
+<hr>
+<font color="white" size="10">courtesy:gokul_thirukumaran</font>
+<p></p>
+</body></html>
